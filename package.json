@@ -25,7 +25,7 @@
     "nativescript-dev-webpack": "~1.2.0",
     "nativescript-videoplayer": "4.2.1",
     "nativescript-vue-template-compiler": "~2.4.0",
-    "node-sass": "^4.7.1",
+    "node-sass": "^7.0.0",
     "vue-loader": "~15.4.0"
   },
   "gitHead": "e9af7b54b243e55ef28e4610c4ef8c83837d86c0",
